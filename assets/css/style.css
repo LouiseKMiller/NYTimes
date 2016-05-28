@@ -1,0 +1,8 @@
+#inputWrapper, .jumbotron {
+	width: 90%;
+	margin: 0 auto;
+}
+
+.jumbotron {
+	font-size: 2em;
+}
