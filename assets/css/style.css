@@ -1,8 +1,14 @@
 #inputWrapper, .jumbotron {
 	width: 90%;
 	margin: 0 auto;
+	border-style: solid;
+	border-color: black;
 }
 
 .jumbotron {
 	font-size: 2em;
+}
+
+#tagLine {
+	text-align: center;
 }
